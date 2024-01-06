@@ -25,6 +25,11 @@ button {
     cursor: pointer;
 }
 
+#myCarousel{
+border: solid 3px grey;
+border-radius: 5px;
+}
+
 .carousel-item img {
     max-height: 700px; /* Establece un alto máximo según sea necesario */
     width: 800px;
